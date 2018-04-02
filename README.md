@@ -15,5 +15,11 @@ Architecture implemented:
 MVP and
 Dependency Injection
 
-The main app dependens on the gaintbomb module that contains the retrofit integration code. 
+Modules:
+The main app depends on the gaintbomb module that contains the retrofit integration code.
+
+Error Handling:
+The app handles no network errors and no search results found errors. 
+
+
 
