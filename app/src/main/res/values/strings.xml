@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GiantBomb</string>
+    <string name="dialog_ok_button">ok</string>
+    <string name="no_results_found_dialog">Your search yielded no results. Please try again with a different search term</string>
+    <string name="error_dialog_title">Network Error</string>
+    <string name="error_dialog_message">No network detected. Please check your network settings.</string>
+    <string name="default_message">Please tap the search icon on the top and enter a video game name</string>
+</resources>
