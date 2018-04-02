@@ -19,7 +19,7 @@ Modules:
 The main app depends on the gaintbomb module that contains the retrofit integration code.
 
 Error Handling:
-The app handles no network errors and no search results found errors. 
+The app handles network errors and search results errors.
 
 
 
